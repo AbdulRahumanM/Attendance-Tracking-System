@@ -1,0 +1,117 @@
+@CHARSET "ISO-8859-1";
+#welcome {
+    overflow: hidden;
+    float: left;
+    border-bottom-right-radius: 20px;
+    letter-spacing: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #4c6b5b;
+    height: 1%;
+    min-height: 29px;
+    padding-top: 8px;
+    color: rgb(250, 250, 250);
+    text-align: left;
+    padding-left: 3.2%;
+    padding-right: 2.2%;
+    font-weight: 200;
+	position:fixed;
+	top:50px;
+}
+.affix {
+    top: 0;
+    width: 100%;
+  }
+.affix + .container-fluid {
+    padding-top: 70px;
+  }
+.header {
+	background-color:#F44336;
+	color:#fff;
+	height:200px;
+}
+.light-grey {
+    color: #000;
+    background-color: #f1f1f1 !important;
+}
+.loader {
+ border-top: 16px solid blue;
+ border-bottom: 16px solid blue;
+}
+.table-top {
+	top:200px;
+}
+.content {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+    font-weight: 300;
+	position:fixed;
+    top: 30%;
+    left:30%;
+    width: 40vw;
+    margin: 0 auto;
+    padding: 10px 40px 20px 40px;
+    background: #FFF;
+    background: rgba(255, 255, 255, 0.70);
+}
+.content1 {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+    font-weight: 300;
+	position:fixed;
+    top: 30%;
+    left:30%;
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 40px 20px 40px;
+    background: #FFF;
+    background: rgba(255, 255, 255, 0.70);
+}
+.content2 {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	text-align:center;
+    font-weight: 300;
+	position:fixed;
+    bottom: 0%;
+    left: 30%;
+    width: 40vw;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+    background: #d2dfdf;
+    background: rgba(255, 255, 255, 0.70);
+}
+#copyright {
+    position: relative;
+    bottom: 68px;
+    width: 100%;
+    max-width: 100%;
+    background-color: #000;
+    color: #989D9E !important;
+    font-weight: 400;
+    letter-spacing: 1.7px;
+    font-size: 0.9em;
+    padding: 8px 0px;
+    padding-left: 3.8%;
+    text-align: center;
+    min-height: 18px;
+    overflow: hidden;
+}
+.bg {
+	background: #FFF;
+    background: rgba(255, 255, 255, 0.70);
+}
+.box {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+    font-weight: 300;
+    left:30%;
+    width: 40vw;
+    margin: 0 auto;
+    padding: 10px 40px 20px 40px;
+    background: #FFF;
+    background: rgba(255, 255, 255, 0.70);
+}
+.txt{
+	text-align:left;
+}
