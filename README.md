@@ -11,7 +11,7 @@ JSP, CSS, BootStrap.js, jQuery
 ### Backend : 
 JAVA Servlets
 
-### Modularization:
+### Directory Structure:
 
 Src/Com/ATS : Servlet and DAO Classes
 
